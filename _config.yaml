@@ -4,3 +4,10 @@ plugins:
 remote_theme: sighingnow/jekyll-gitbook
 
 title: growTX.org
+
+ignore_theme_config: true
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
